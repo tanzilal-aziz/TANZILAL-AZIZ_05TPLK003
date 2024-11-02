@@ -1,0 +1,28 @@
+.nav-link:hover {
+    background-color: gray;
+    
+}
+.display-4 {
+    font-weight: bold;
+}
+
+.card-body-icon{
+    position: absolute;
+    z-index: 0;
+    top: 25px;
+    right: 4px;
+    opacity: 0,4;
+    font-size: 90px;
+}
+
+.profile-header .role {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+.nav-link.active {
+    color: #fff;  /* Warna teks */
+    background-color: #007bff; /* Warna latar belakang */
+    font-weight: bold;
+    border-radius: 5px;
+}
